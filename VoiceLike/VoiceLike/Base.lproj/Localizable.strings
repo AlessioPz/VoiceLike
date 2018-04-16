@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  VoiceLike
+
+  Created by Alessio Papazzoni on 01/02/18.
+  Copyright © 2018 bussolalabs. All rights reserved.
+*/
+
+// Common
+recording_error = "recording was not succesful";
+
+// Main view
+tap_to_record = "Tap to Record";
+recording_in_progress = "Recording in progress";
